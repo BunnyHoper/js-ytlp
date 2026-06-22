@@ -1,4 +1,4 @@
-# 🌌 bunny-yt-dlp - Interactive CLI Downloader
+# 🌌 ʏᴛ-ᴅʟᴘ  ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴄʟɪ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ
 [![GitHub repo](https://img.shields.io/badge/github-BunnyHoper-blue?style=for-the-badge&logo=github)](https://github.com/BunnyHoper)
 [![Runtime](https://img.shields.io/badge/Runtime-Node.js%2018+-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![Engine](https://img.shields.io/badge/Engine-yt--dlp-red?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)
