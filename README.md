@@ -7,13 +7,13 @@
 
 ---
 
-## ✨ Introduction: Optimized Terminal Downloads
+## ✨ ɪɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ: ᴏᴘᴛɪᴍɪᴢᴇᴅ ᴛᴇʀᴍɪɴᴀʟ ᴅᴏᴡɴʟᴏᴀᴅѕ
 
 Stop typing long terminal commands or using shady web downloaders. **bunny-yt-dlp** gives you a highly responsive, custom-colored terminal menu to process links instantly. It handles single URLs and entire playlists seamlessly, managing process execution in the background with animated loaders and automated metadata embedding.
 
 ---
 
-## 🛠️ Core Capabilities
+## 🛠️ ᴄᴏʀᴇ ᴄᴀᴘᴀʙɪʟɪᴛɪᴇѕ
 
 * **Smart Download Modes:** One-click automated extraction for High-Quality Audio (MP3 320kbps) or Maximum Quality Video (MP4) with metadata and thumbnail embedding.
 * **Manual Format Selector:** Advanced extraction mode that lists all available stream IDs directly from the source, letting you choose explicit formats (e.g., specific video/audio combinations).
@@ -23,7 +23,7 @@ Stop typing long terminal commands or using shady web downloaders. **bunny-yt-dl
 
 ---
 
-## 📂 Architecture & Files
+## 📂 ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ -- ʀᴏᴏᴛ
 
 | File / Folder | Type | Action |
 | :--- | :---: | :--- |
@@ -33,7 +33,7 @@ Stop typing long terminal commands or using shady web downloaders. **bunny-yt-dl
 
 ---
 
-## ⚙️ Quick Start Guide
+## ⚙️ ǫᴜɪᴄᴋ ѕᴛᴀʀᴛ ɢᴜɪᴅᴇ
 
 1.  **Environment Setup:** Ensure you have Node.js installed, then place the script inside your workspace.
 
@@ -48,7 +48,7 @@ Stop typing long terminal commands or using shady web downloaders. **bunny-yt-dl
 
 ---
 
-## 🤝 Contribution & Support
+## 🤝 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ᴀɴᴅ ѕᴜᴘᴘᴏʀᴛ
 
 Contributions are welcome. If you want to enhance the CLI interface or add custom presets:
 
@@ -61,7 +61,7 @@ Contributions are welcome. If you want to enhance the CLI interface or add custo
 
 ## 📜 License
 
-This project is released under the [MIT License](LICENSE).
+Feel free to do any u want with my scripts. God bless.
 
 ***
 *Built with ❤️ by Bunny.*
